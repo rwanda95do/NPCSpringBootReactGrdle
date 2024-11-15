@@ -1,17 +1,11 @@
-import logo from "./logo.svg";
-import "./App.css";
+import React from "react";
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <h1>Spring Boot + react + NCP</h1>
-      <h3>카운트 : 3</h3>
-      <img
-        src="./image/r.png"
-        alt="현재위치는 index.html이 있는 public입니다."
-      ></img>
+    <div>
+      <h1>fhfh</h1>
     </div>
   );
-}
+};
 
 export default App;
